@@ -1,4 +1,4 @@
-package school.hei;
+package school.hei.pointage;
 
 public class Category {
     private String name;

@@ -1,4 +1,4 @@
-package school.hei;
+package school.hei.pointage;
 
 import java.time.Instant;
 
