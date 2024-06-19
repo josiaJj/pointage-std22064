@@ -2,3 +2,7 @@ Heure/j
 Pointage 1 semaine
 
 Employee : Name, MatriculeNumber, BirthDate, StartDate, ContractEndDate, SalaryAmount, Category
+
+netSalary = grossSalary*0.8
+
+Category : name, normalWorkingHours, weeklyNormalSalary, compensationAmount
