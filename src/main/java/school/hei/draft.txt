@@ -1,0 +1,4 @@
+Heure/j
+Pointage 1 semaine
+
+Employee : Name, MatriculeNumber, BirthDate, StartDate, ContractEndDate, SalaryAmount, Category
